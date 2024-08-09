@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=RobotoMono&size=22&pause=1000&color=00F72F&background=FFFFFF00&random=false&width=435&lines=Hi%2C+this+is+my+main+Github+page+%3A)](https://git.io/typing-svg)
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateusz-solinski/)
 
 <!--
 **MatriX1232/MatriX1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
