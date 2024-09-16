@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🌱 I’m currently working on **[minishell project](https://github.com/MatriX1232/minishell)** at 42 School.
+- 🌱 I’m currently working on **[minishell project](https://github.com/MatriX1232/minishell)** at 42Warsaw.
 - 🎓 Learning more about systems programming, shell scripting, and more!
 - 🎯 Interested in software development, open-source contributions, and building efficient tools.
   
