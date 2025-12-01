@@ -8,11 +8,13 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=RobotoMono&pause=1000&color=ED18F7&width=435&lines=Welcome+to+my+Github+page)](https://git.io/typing-svg)
 
 ### About Me
+🌱 I’m currently working on **[Luma](https://github.com/MatriX1232/Luma)** as a side project.
 
-- 🌱 I’m currently working on **[Luma](https://github.com/MatriX1232/Luma)** as a side project.
-- 🎓 Learning more about systems programming, LLMs, and more!
-- 🎯 Interested in software development, Ping-Pong and Coffee ;).
+🎓 Learning more about systems programming, LLMs, and more!
 
+🎯 Interested in software development, Ping-Pong and Coffee ;).
+
+###
 <div height=50px></div>
 
 <p align="center">Programing languages:</p>
