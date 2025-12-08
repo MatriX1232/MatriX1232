@@ -12,7 +12,7 @@
 
 🎓 Learning more about systems programming, LLMs, and more!
 
-🎯 Interested in software development, Ping-Pong and Coffee ;).
+🎯 Interested in software development, Ping-Pong and Coffee ;)
 
 ###
 <div height=50px></div>
