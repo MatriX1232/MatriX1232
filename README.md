@@ -5,21 +5,51 @@
       <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
   </div>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=RobotoMono&pause=1000&color=ED18F7&width=435&lines=Welcome+to+my+Github+page)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ED18F7&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Mateusz;C%2FC%2B%2B+%26+Python+Developer;Systems+Programming+%26+AI;42Warsaw+Student)](https://git.io/typing-svg)
 
 ### About Me
-🌱 I’m currently working on **[Luma](https://github.com/MatriX1232/Luma)** as a side project.
 
-🎓 Learning more about systems programming, LLMs, and more!
+**C/C++ & Python Developer** specialized in designing complete systems and working with LLMs.
 
-🎯 Interested in software development, Ping-Pong and Coffee ;)
+🎓 I have completed the **Common Core** at **42Warsaw** and am currently pursuing the **RNCP 6/7 (Engineer/Master's Level)** certificate.
+<br>
+I am also working towards a Bachelor's in Management at **WSKZ**.
+
+### 
+<br></br>
+🌱 **Current Focus:**
+<br>
+**Systems:** Multithreading, Sockets, and Code Optimization.
+<br>
+**AI:** LLMs, PyTorch, and Semantic Search.
+
+🎯 **Interests:** Software Architecture, Ping-Pong, and Coffee ☕
 
 ###
-<div height=50px></div>
+<br>
 
-<p align="center">Programing languages:</p>
+<h3>🚀 Featured Projects</h3>
+
+**[Vector View](https://github.com/MatriX1232/Vector-View)**
+<br>
+Semantic image search engine using **Python**, **PyTorch**, and **LanceDB**.
+
+**[Luma](https://github.com/MatriX1232/Luma)**
+<br>
+Local AI assistant controlling system functions via **Ollama** and **Docker**.
+
+**[ft_irc](https://github.com/MatriX1232/ft_irc)**
+<br>
+RFC 1459-compliant IRC server written in **C++** (98) using socket multiplexing.
+
+**[ft_transcendence](https://github.com/MatriX1232/ft_transcendence)**
+<br>
+Full-stack web app with **TypeScript**, **Node.js**, and Microservices.
 
 ###
+<br>
+
+<p align="center">Programming Languages:</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -27,34 +57,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
 
-<p align="center">AI Frameworks:</p>
-
-###
+<p align="center">AI Frameworks & Tools:</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
 ###
 
-<p align="center">OS:</p>
-
-###
+<p align="center">OS & DevOps:</p>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 
