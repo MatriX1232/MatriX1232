@@ -30,7 +30,7 @@ I am also working towards a Bachelor's in Management at **WSKZ**.
 
 <h3>🚀 Featured Projects</h3>
 
-**[Vector View](https://github.com/MatriX1232/Vector-View)**
+**[Vector View](https://github.com/MatriX1232/VectorView)**
 <br>
 Semantic image search engine using **Python**, **PyTorch**, and **LanceDB**.
 
@@ -42,7 +42,7 @@ Local AI assistant controlling system functions via **Ollama** and **Docker**.
 <br>
 RFC 1459-compliant IRC server written in **C++** (98) using socket multiplexing.
 
-**[ft_transcendence](https://github.com/MatriX1232/ft_transcendence)**
+**[ft_transcendence](https://github.com/MatriX1232/ft_transcendenceProject)**
 <br>
 Full-stack web app with **TypeScript**, **Node.js**, and Microservices.
 
